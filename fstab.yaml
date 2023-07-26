@@ -1,2 +1,7 @@
+# 'another-importer-test'
+# mountpoints:
+#   /: https://drive.google.com/drive/folders/1U5jxvjEIYSdCBhnoCCyGlgefVMSQ2fHb
+
+# 'blue-importer-test'
 mountpoints:
-  /: https://drive.google.com/drive/folders/1U5jxvjEIYSdCBhnoCCyGlgefVMSQ2fHb
+  /: https://drive.google.com/drive/folders/1b5lomqkBET4zd53xHCCXL9S-ICe8t_HR
